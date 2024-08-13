@@ -1,0 +1,63 @@
+# PsPhisher Changelog
+
+## v2.1.7
+- Fixed serveo URL
+- Updated custom URL
+
+## v2.1.4
+- Restored URL preview generator
+- Added Serveo for port forwarding
+
+## v2.1
+- Improved performance and bug fixes
+- Improved layout
+
+## v2.0
+- Added new port forwarding service 'localhost.run' with up to 8 links
+- Customized the redirection URL
+- Fixed some issues in pages
+
+## v1.9
+- Added new port forwarding service 'loclx'
+- Added Docker and pip support
+- Fixed country code OTP and some styles in templates
+
+## v1.8
+- Added 12 new templates
+- Added OTP support for 20 templates (Thanks to AdvPhishing!)
+- Added mailing credential feature
+- Removed dependency on wget, curl, and unzip
+
+## v1.7
+- Added command-line arguments (`python3 PsPhisher.py -h` to check them out)
+- Fixed Insta Blue verify text and image issue
+- Made the mask sentence customizable from JSON
+
+## v1.6
+- Reduced repository size
+- Fixed Facebook page
+
+## v1.5
+- Added Roblox
+- Updated Discord page
+
+## v1.4
+- Added Discord
+- Added custom option
+
+## v1.3
+- Added versioning
+- Fixed minor errors
+- Added update option
+- Updated disclaimer
+
+## v1.2
+- Set up concurrent dual tunneling
+- Added support for more devices via additional package managers
+
+## v1.1
+- Added 12 new templates
+- Improved `ip.php`
+
+## v1.0
+- Initial publish on 10 August 2024 with 51 templates
